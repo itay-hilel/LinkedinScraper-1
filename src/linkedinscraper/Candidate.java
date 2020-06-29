@@ -6,8 +6,8 @@ package linkedinscraper;
  * created by Weston Jackson
  */
 public class Candidate {
-	String name;     //name of the candidate
-	String url;      //linkedin url
+	String name;     //itay
+	String url;      //
 	String job;      //job of the candidate
 	public Candidate(String a, String b, String c)
 	{
